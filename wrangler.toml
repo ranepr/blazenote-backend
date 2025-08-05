@@ -6,7 +6,7 @@ compatibility_flags = [ "nodejs_compat" ]
 [[d1_databases]]
 binding = "DB"
 database_name = "blazenote"
-database_id = "7ca1a57f-23d3-4f7c-a390-699e6f526f28"
+database_id = "fed20619-133e-45ff-bd96-ebfcd17df4d6"
 migrations_dir = "./migrations"
 
 # [ai]

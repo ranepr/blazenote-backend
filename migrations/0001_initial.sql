@@ -1,7 +1,5 @@
--- Migration number: 0001 	 2025-01-26T03:52:41.446Z
+-- Migration number: 0001 	 2025-08-05T07:26:29.771Z
 
--- UUID7 Generation View
--- This creates a view that generates UUID7 identifiers for our records
 DROP VIEW IF EXISTS uuid7;
 CREATE VIEW uuid7 AS
 WITH unixtime AS (
